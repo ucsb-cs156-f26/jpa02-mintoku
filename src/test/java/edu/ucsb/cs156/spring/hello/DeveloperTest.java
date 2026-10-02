@@ -35,7 +35,7 @@ public class DeveloperTest {
     }
     @Test
     public void getTeam_returns_team_with_correct_name() {
-        Team  t = Developer.getTeam();
+        Team t = Developer.getTeam();
         assertEquals("f26-05", t.getName());
     }
     @Test
