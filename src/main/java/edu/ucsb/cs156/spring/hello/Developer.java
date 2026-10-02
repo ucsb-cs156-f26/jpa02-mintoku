@@ -36,12 +36,12 @@ public class Developer {
     
     public static Team getTeam() {
         // TODO: Change this to your team name
-        Team team = new Team("team-f26-05");
-        team.addMember("Brandon");
+        Team team = new Team("f26-05");
+        team.addMember("Brandon Y");
         team.addMember("Calvin");
         team.addMember("Jarek");
         team.addMember("Jovia");
-        team.addMember("Noah");
+        team.addMember("Noah N");
         team.addMember("Tara");
         return team;
     }
